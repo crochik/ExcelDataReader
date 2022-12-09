@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using ExcelDataReader.Core.NumberFormat;
 using ExcelDataReader.Log;
 
 namespace ExcelDataReader.Core.BinaryFormat

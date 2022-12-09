@@ -1,10 +1,8 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Xml;
 using ExcelDataReader.Core.OpenXmlFormat.BinaryFormat;
-using ExcelDataReader.Core.OpenXmlFormat.Records;
 using ExcelDataReader.Core.OpenXmlFormat.XmlFormat;
 #if !NET20
 using System.IO.Compression;

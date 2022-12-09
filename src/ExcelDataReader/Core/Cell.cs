@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ExcelDataReader.Core
+﻿namespace ExcelDataReader.Core
 {
     internal class Cell
     {
